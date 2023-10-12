@@ -13,6 +13,6 @@ class Program
         Console.WriteLine("wspolczynnik c:");
         c = double.Parse(Console.ReadLine());
         delta = (b * b) - (4 * a * c);
-        Console.WriteLine(delta);
+        Console.WriteLine("Delta wynosi "+delta);
     }
 }
