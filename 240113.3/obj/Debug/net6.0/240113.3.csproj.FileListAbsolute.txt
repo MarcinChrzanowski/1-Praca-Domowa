@@ -1,0 +1,14 @@
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\bin\Debug\net6.0\240113.3.exe
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\bin\Debug\net6.0\240113.3.deps.json
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\bin\Debug\net6.0\240113.3.runtimeconfig.json
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\bin\Debug\net6.0\240113.3.dll
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\bin\Debug\net6.0\240113.3.pdb
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\240113.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\240113.3.AssemblyInfoInputs.cache
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\240113.3.AssemblyInfo.cs
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\240113.3.csproj.CoreCompileInputs.cache
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\240113.3.dll
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\refint\240113.3.dll
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\240113.3.pdb
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\240113.3.genruntimeconfig.cache
+C:\Users\cinuu\OneDrive\Pulpit\240113.3\240113.3\obj\Debug\net6.0\ref\240113.3.dll
